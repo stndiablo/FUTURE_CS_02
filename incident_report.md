@@ -59,12 +59,6 @@ eve
 
 ---
 
-## 📸 Screenshot
-
-![Malware Search in Splunk](malware_search_screenshot.png)
-
----
-
 ## ✅ Skills Gained
 
 - Hands-on SIEM use (Splunk Cloud)  
